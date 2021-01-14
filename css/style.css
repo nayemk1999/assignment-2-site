@@ -24,7 +24,6 @@ span{
 .noboni-card img{
     background-color: #F1F1F1 !important;
     height: 400px;
-    
     padding: 30px;
     border-radius: 15px;
 }
@@ -42,6 +41,7 @@ p{padding: 5px;}
     padding:15px 30px !important;
     color: white !important;
     font-size: 30px;
+    border: 0;
 }
 .service-express img{
     width: 80px;
